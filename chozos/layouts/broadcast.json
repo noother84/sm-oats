@@ -1,0 +1,75 @@
+﻿{
+  "tracker_broadcast": {
+    "type": "array",
+    "orientation": "vertical",
+    "background": "#000000",
+    "margin": "0,0",
+    "width": 378,
+    "height": 230,
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+		   {
+            "type": "array",
+            //"orientation": "vertical",
+            //"v_alignment": "center",
+            "h_alignment": "center",
+            "margin": "0,0,0,0",
+            "content": [
+              {
+                "type": "itemgrid",
+				"orientation": "vertical",
+				//"v_alignment": "center",
+				"h_alignment": "center",
+				"item_size": "175",
+				"item_margin": "-20,-65",
+				"margin": "-5,100,0,0",
+				"rows": [
+				  [ "difficulty", "qualityoflife" ],
+				  [ "itemprogression", "maplayout" ]
+				]
+              }
+            ]
+          },
+          {
+            "type": "array",
+            //"orientation": "vertical",
+            //"v_alignment": "center",
+            "h_alignment": "center",
+            "margin": "20,-50,0,0",
+            "content": [
+              {
+                "type": "itemgrid",
+                "item_margin": "2,1",
+                "h_alignment": "center",
+                "margin": "0,5,0,0",
+				"item_size": "42",
+                "rows": [
+                  [ "charge", "varia", "morph", "hijump", "missile" ],
+                  [ "ice", "gravity", "bomb", "space", "supermissile" ],
+                  [ "wave", "", "spring", "speed", "powerbomb" ],
+                  [ "spazer", "grapple", "screw", "", "etank" ],
+                  [ "plasma", "xray", "", "", "reservetank" ],
+				  [ "", "eye", "phantoon", "" ]
+                ]
+              },
+              {
+                "type": "itemgrid",
+                "margin": "0,15,0,0",
+                "item_margin": "8,1",
+                "h_alignment": "center",
+				"item_size": "42",
+                "rows": [
+				  [ "bombtorizo", "bowlingchozo", "acidchozo", "goldentorizo" ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

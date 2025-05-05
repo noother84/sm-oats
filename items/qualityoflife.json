@@ -1,0 +1,40 @@
+[
+  {
+    "name": "QualityOfLife",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "name": "Off",
+        "img": "images/qol_off.png",
+        "inherit_codes": "false",
+        "codes": "qualityoflife, off"
+      },
+      {
+        "name": "Low",
+        "img": "images/qol_low.png",
+        "inherit_codes": "false",
+        "codes": "low"
+      },
+      {
+        "name": "Default",
+        "img": "images/qol_default.png",
+        "inherit_codes": "false",
+        "codes": "default"
+      },
+      {
+        "name": "High",
+        "img": "images/qol_high.png",
+        "inherit_codes": "false",
+        "codes": "default"
+      },
+      {
+        "name": "Max",
+        "img": "images/qol_max.png",
+        "inherit_codes": "false",
+        "codes": "max"
+      }
+    ]
+  }
+]

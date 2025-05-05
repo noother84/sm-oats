@@ -1,0 +1,40 @@
+[
+  {
+    "name": "ItemProgression",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "name": "Normal",
+        "img": "images/prog_normal.png",
+        "inherit_codes": "false",
+        "codes": "itemprogression, normal"
+      },
+      {
+        "name": "Tricky",
+        "img": "images/prog_tricky.png",
+        "inherit_codes": "false",
+        "codes": "tricky"
+      },
+      {
+        "name": "Technical",
+        "img": "images/prog_technical.png",
+        "inherit_codes": "false",
+        "codes": "technical"
+      },
+      {
+        "name": "Challenge",
+        "img": "images/prog_challenge.png",
+        "inherit_codes": "false",
+        "codes": "challenge"
+      },
+      {
+        "name": "Desolate",
+        "img": "images/prog_desolate.png",
+        "inherit_codes": "false",
+        "codes": "desolate"
+      }
+    ]
+  }
+]

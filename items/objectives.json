@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Bosses",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "name": "Bosses",
+        "img": "images/obj_bosses.png",
+        "inherit_codes": "false",
+        "codes": "bosses"
+      }
+    ]
+  },
+  {
+    "name": "Minibosses",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "name": "Minibosses",
+        "img": "images/obj_minibosses.png",
+        "inherit_codes": "false",
+        "codes": "minibosses"
+      }
+    ]
+  },
+  {
+    "name": "Metroids",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "name": "Metroids",
+        "img": "images/obj_metroids.png",
+        "inherit_codes": "false",
+        "codes": "metroids"
+      }
+    ]
+  },
+  {
+    "name": "Chozos",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "name": "Chozos",
+        "img": "images/obj_chozos.png",
+        "inherit_codes": "false",
+        "codes": "chozos"
+      }
+    ]
+  },
+  {
+    "name": "Pirates",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "name": "Pirates",
+        "img": "images/obj_pirates.png",
+        "inherit_codes": "false",
+        "codes": "pirates"
+      }
+    ]
+  },
+  {
+    "name": "Random",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "name": "Random",
+        "img": "images/obj_random.png",
+        "inherit_codes": "false",
+        "codes": "random"
+      }
+    ]
+  },
+  {
+    "name": "None",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "name": "None",
+        "img": "images/obj_none.png",
+        "inherit_codes": "false",
+        "codes": "none"
+      }
+    ]
+  },
+  {
+    "name": "Objectives",
+    "type": "progressive",
+    "allow_disabled": "false",
+    "loop": "true",
+    "stages": [
+      {
+        "name": "Boss",
+        "img": "images/obj_bosses.png",
+        "inherit_codes": "false",
+        "codes": "objectives, boss"
+      },
+      {
+        "name": "Miniboss",
+        "img": "images/obj_minibosses.png",
+        "inherit_codes": "false",
+        "codes": "miniboss"
+      },
+      {
+        "name": "Metroid",
+        "img": "images/obj_metroids.png",
+        "inherit_codes": "false",
+        "codes": "metroid"
+      },
+      {
+        "name": "Chozo",
+        "img": "images/obj_chozos.png",
+        "inherit_codes": "false",
+        "codes": "chozo"
+      },
+      {
+        "name": "Pirate",
+        "img": "images/obj_pirates.png",
+        "inherit_codes": "false",
+        "codes": "pirate"
+      },
+      {
+        "name": "Random",
+        "img": "images/obj_random.png",
+        "inherit_codes": "false",
+        "codes": "rando"
+      },
+      {
+        "name": "None",
+        "img": "images/obj_none.png",
+        "inherit_codes": "false",
+        "codes": "non"
+      }
+    ]
+  }
+]

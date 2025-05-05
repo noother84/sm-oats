@@ -1,0 +1,34 @@
+﻿{
+  "name": "Super Metroid Map Rando - Oats Layout",
+  "game_name": "Super Metroid",
+  "platform": "snes",
+  "package_version": "1.0",
+  "package_uid": "sm_maprando_derca",
+  "author": "ChicDead26, SauceRelic, Derca",
+  "variants": {
+    "full": {
+      "display_name": "Full Tracker"
+    },
+    "bosses": {
+      "display_name": "Objective: Bosses"
+    },
+    "minibosses": {
+      "display_name": "Objective: Minibosses"
+    },
+    "metroids": {
+      "display_name": "Objective: Metroids"
+    },
+    "chozos": {
+      "display_name": "Objective: Chozos"
+    },
+    "pirates": {
+      "display_name": "Objective: Pirates"
+    },
+    "random": {
+      "display_name": "Objective: Random"
+    },
+    "none": {
+      "display_name": "Objective: None"
+    }
+  }
+}
